@@ -1,3 +1,22 @@
 h1{
     text-align: center;
 }
+
+.grid{
+    background-color: black;
+    padding: 15px;
+}
+ .grid a {
+    color: white;
+    text-decoration: none;
+  }
+
+   .grid a:hover {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .logo{
+    float:left;
+      background-color: black;
+  }
