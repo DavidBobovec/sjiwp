@@ -29,3 +29,10 @@ h1{
     background-color: black;
     color:white;
   }
+
+  footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+  }
