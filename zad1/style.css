@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    font-size:60px;
 }
 
 .grid{
@@ -19,4 +20,12 @@ h1{
   .logo{
     float:left;
       background-color: black;
+  }
+
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    color:white;
   }
